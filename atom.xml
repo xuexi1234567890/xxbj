@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xuexi1234567890.github.io/xxbj/</id>
+    <title>学习笔记？</title>
+    <updated>2022-08-20T12:20:14.168Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xuexi1234567890.github.io/xxbj/"/>
+    <link rel="self" href="https://xuexi1234567890.github.io/xxbj/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://xuexi1234567890.github.io/xxbj/images/avatar.png</logo>
+    <icon>https://xuexi1234567890.github.io/xxbj/favicon.ico</icon>
+    <rights>All rights reserved 2022, 学习笔记？</rights>
+    <entry>
+        <title type="html"><![CDATA[APP Inventor交流群]]></title>
+        <id>https://xuexi1234567890.github.io/xxbj/f4rohQvs_/</id>
+        <link href="https://xuexi1234567890.github.io/xxbj/f4rohQvs_/">
+        </link>
+        <updated>2022-08-20T10:35:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更新方向（202208）]]></title>
+        <id>https://xuexi1234567890.github.io/xxbj/4ZkWnwynS/</id>
+        <link href="https://xuexi1234567890.github.io/xxbj/4ZkWnwynS/">
+        </link>
+        <updated>2022-08-03T09:51:57.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用gridea编辑管理静态博客并部署在GitHub page]]></title>
+        <id>https://xuexi1234567890.github.io/xxbj/m1KYFWNo9/</id>
+        <link href="https://xuexi1234567890.github.io/xxbj/m1KYFWNo9/">
+        </link>
+        <updated>2022-08-03T08:23:50.000Z</updated>
+    </entry>
+</feed>
